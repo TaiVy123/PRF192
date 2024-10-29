@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701623462 source:c:\hoctap\02-ifelse\main.c
+	<stdio.h>
+	<stdlib.h>
+

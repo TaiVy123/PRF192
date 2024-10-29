@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702736189 source:c:\hoctap\13-sumallelemennumber\main.c
+	<stdio.h>
+	<stdlib.h>
+

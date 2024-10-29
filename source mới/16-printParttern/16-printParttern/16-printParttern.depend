@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703082993 source:c:\hoctap\16-printparttern\main.c
+	<stdio.h>
+	<stdlib.h>
+

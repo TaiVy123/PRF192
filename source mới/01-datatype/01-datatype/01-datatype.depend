@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701278112 source:c:\hoctap\01-datatype\main.c
+	<stdio.h>
+	<stdlib.h>
+
